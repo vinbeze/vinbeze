@@ -17,9 +17,11 @@
   
 </div>
   
+<div> 
  
- 
-</div>
+ ![Snake animation](https://github.com/vinbeze/vinbeze/blob/output/github-contribution-grid-snake.svg)
+
+ </div>
 
 <!--
 ![Snake animation](https://github.com/vinbeze/vinbeze/blob/output/github-contribution-grid-snake.svg)
