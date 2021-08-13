@@ -1,6 +1,6 @@
 ## Vinicius Bezerra
 - 🔭 Hoje trabalho com back-end (java/dotnet core) 
-- 🌱 Estudando dotnet, nodeJs, clean code e clean architeture
+- 🌱 Estudando dotnet, nodeJs, AWS, clean code e clean architeture
  <div>
   <a href="https://github.com/vinbeze">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinbeze&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
