@@ -41,6 +41,7 @@
 ### 💻 Linguagens mais usadas
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinbeze&layout=compact&langs_count=8&theme=react&cache_seconds=7200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinbeze&theme=react"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinbeze&theme=react"/>
 </p>
 
