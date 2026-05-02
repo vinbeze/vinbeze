@@ -33,7 +33,6 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinbeze&show_icons=true&theme=react&cache_seconds=7200"/>
   <img height="180em" src="https://streak-stats.demolab.com?user=vinbeze&theme=react&cache_seconds=7200"/>
 </p>
 
