@@ -1,47 +1,57 @@
-<h1 align="center">Olá, eu sou o Vinicius Bezerra 👋</h1>
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="VINICIUS BEZERRA — Back-end developer, gamer e builder. Press start." />
+</p>
 
 <p align="center">
-  Desenvolvedor Back-end apaixonado por arquitetura de software e boas práticas de código.
+  <img src="assets/character.svg" width="100%" alt="Ficha do personagem: classe Back-end Engineer, nível 10 (desde 2016). Skills: Java, C#/.NET, Go, Python, TypeScript e Rust." />
 </p>
 
----
+```txt
+> CARREGANDO SAVE... OK
+> Olá! Sou o Vinicius, dev back-end desde 2016.
+> De dia: APIs, arquitetura e sistemas que não caem em produção.
+> De noite: jogos, Linux (Arch, btw) e projetos que começam com "e se eu fizesse...".
+```
 
-### 🚀 Sobre mim
+### ▸ QUEST LOG
 
-- 🔭 Trabalho com **back-end** usando **Java** e **.NET Core**
-- 🌱 Estudando **Node.js**, **AWS**, **Clean Code** e **Clean Architecture**
-- 💡 Interessado em arquitetura de sistemas e desenvolvimento de software de qualidade
+| | Quest | Party (stack) | Status |
+|:-:|---|---|:-:|
+| 🗡️ | **PDV para mercados** — frente de caixa com estoque, NFC-e e modo quiosque no Ubuntu | `Go` `React` `Wails` `PostgreSQL` | 🟢 em andamento |
+| 🎮 | **Side quests de game dev** — protótipos e engines nas horas vagas | `C++` `Rust` | 🟡 explorando |
+| 📦 | [**mercado-ingestao**](https://github.com/vinbeze/mercado-ingestao) — ingestão de dados de mercado | `Python` | ✅ |
+| 🧪 | [**gerador-exercicios**](https://github.com/vinbeze/gerador-exercicios) — gerador de exercícios | `Python` | ✅ |
+| 🧱 | [**node-typescript-api**](https://github.com/vinbeze/node-typescript-api) — API em Node com TypeScript | `Node.js` `TypeScript` | ✅ |
+| ☕ | [**spring-boot-ionic-backend**](https://github.com/vinbeze/spring-boot-ionic-backend) — back-end REST | `Java` `Spring Boot` | ✅ |
 
----
+### ▸ INVENTÁRIO
 
-### 🛠️ Tecnologias & Ferramentas
-
-<p>
-  <img alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img alt="C#" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="TypeScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img alt="Node.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img alt="Spring" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img alt="Docker" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img alt="AWS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+<p align="center">
+  <img alt="Java, C#, Go, Python, TypeScript, Rust, C++, React, Spring, PostgreSQL, Docker, AWS e Arch Linux" src="https://skillicons.dev/icons?i=java,cs,go,py,ts,rust,cpp,react,spring,postgres,docker,aws,arch&perline=13" />
 </p>
 
----
+<details>
+<summary><b>CONQUISTAS DESBLOQUEADAS</b> — clique para abrir 🏆</summary>
+<br>
 
-### 📊 GitHub Stats
+| | Conquista | Como desbloquear |
+|:-:|---|---|
+| 🏁 | **Hello, World** | Primeiro commit no GitHub — 2016 |
+| 🧙 | **Poliglota** | Projetos em Java, C#, Go, Python, TypeScript, Rust e C++ |
+| 🐧 | **I use Arch, btw** | Arch Linux como sistema principal |
+| 🚀 | **Shipped!** | Colocar um PDV para rodar em modo quiosque numa loja de verdade |
+| 🕹️ | **Player 1** | Nunca ter largado o controle |
 
-<p>
-  <img height="180em" src="https://streak-stats.demolab.com?user=vinbeze&theme=react&cache_seconds=7200"/>
+</details>
+
+### ▸ HIGH SCORE
+
+<p align="center">
+  <img height="170" alt="Sequência de contribuições" src="https://streak-stats.demolab.com?user=vinbeze&hide_border=true&background=0B0E17&ring=FFB547&fire=FF4F8B&currStreakNum=4FF0FF&sideNums=E9E3D3&currStreakLabel=FFB547&sideLabels=8A5F23&dates=3A4256&stroke=232741&cache_seconds=7200" />
 </p>
 
----
-
-### 💻 Linguagens mais usadas
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinbeze&theme=react"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinbeze&theme=react"/>
+<p align="center">
+  <a href="https://github.com/vinbeze?tab=followers">
+    <img src="assets/footer.svg" width="100%" alt="Thanks for playing! Continue? Insert coin to follow." />
+  </a>
 </p>
-
