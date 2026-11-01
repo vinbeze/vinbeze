@@ -1,6 +1,5 @@
-<p>
-  <img align="right" src="./assets/lich.png" width="40%" alt="Lich coroado com chama verde e cajado de caveira" />
-  <img src="./assets/title.svg" width="55%" alt="Vinbeze — necromante de software desde 2016" />
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Vinbeze — necromante de software desde 2016, com o lich coroado segurando uma chama verde e um cajado de caveira" />
 </p>
 
 📜 Reza a lenda que em **2016** um jovem aprendiz conjurou seu primeiro `"Hello, World"`.
@@ -8,7 +7,6 @@ Desde então invoca APIs, ergue arquiteturas e bane bugs da produção.
 Nas horas vagas explora masmorras (jogos), estuda grimórios novos
 e mantém seu castelo em **Arch Linux**, btw.
 
-<br clear="right" />
 
 <img src="./assets/cap-1.svg" width="100%" alt="Capítulo I — Quadro de Missões" />
 
