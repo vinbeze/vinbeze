@@ -1,6 +1,6 @@
 <p>
   <img align="right" src="./assets/lich.png" width="40%" alt="Lich coroado com chama verde e cajado de caveira" />
-  <img src="./assets/title.svg" width="58%" alt="Vinbeze — necromante de software desde 2016" />
+  <img src="./assets/title.svg" width="55%" alt="Vinbeze — necromante de software desde 2016" />
 </p>
 
 📜 Reza a lenda que em **2016** um jovem aprendiz conjurou seu primeiro `"Hello, World"`.
@@ -29,9 +29,13 @@ e mantém seu castelo em **Arch Linux**, btw.
 
 <img src="./assets/cap-3.svg" width="100%" alt="Capítulo III — Feitos Lendários" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vinbeze&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="Troféus" />
-</p>
+| Feito | Como foi conquistado |
+|:--|:--|
+| **O Primeiro Feitiço** | primeiro commit no GitHub — 2016 |
+| **Mestre dos Grimórios** | projetos em Java, C#, Go, Python, TypeScript, Rust e C++ |
+| **Guardião do Arch** | Arch Linux como sistema principal, btw |
+| **Construtor de Fortalezas** | PDV rodando em modo quiosque, do banco ao boot |
+| **Rolou 20 natural** | nunca largou o controle |
 
 <img src="./assets/cap-4.svg" width="100%" alt="Capítulo IV — Placar da Guilda" />
 
