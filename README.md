@@ -1,45 +1,42 @@
-<p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="vinbeze — lich, necromante de software" />
+<p>
+  <img align="right" src="./assets/lich.png" width="40%" alt="Lich coroado com chama verde e cajado de caveira" />
+  <img src="./assets/title.svg" width="58%" alt="Vinbeze — necromante de software desde 2016" />
 </p>
 
-> 📜 Reza a lenda que em **2016** um jovem aprendiz conjurou seu primeiro `"Hello, World"`.
-> Desde então invoca APIs, ergue arquiteturas e bane bugs da produção.
-> Nas horas vagas explora masmorras (jogos), estuda grimórios novos
-> e mantém seu castelo em **Arch Linux**, btw.
+📜 Reza a lenda que em **2016** um jovem aprendiz conjurou seu primeiro `"Hello, World"`.
+Desde então invoca APIs, ergue arquiteturas e bane bugs da produção.
+Nas horas vagas explora masmorras (jogos), estuda grimórios novos
+e mantém seu castelo em **Arch Linux**, btw.
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<br clear="right" />
 
-## ⚔️ QUADRO DE MISSÕES
+<img src="./assets/cap-1.svg" width="100%" alt="Capítulo I — Quadro de Missões" />
 
-| | Missão | Grupo (stack) | Situação |
-|:-:|:--|:--|:-:|
-| 🏰 | **PDV para mercados** — frente de caixa com estoque, NFC-e e modo quiosque no Ubuntu | `Go` `React` `Wails` `PostgreSQL` | 🔥 em andamento |
-| 🐉 | **Masmorras de game dev** — protótipos e engines nas horas vagas | `C++` `Rust` | 🗺️ explorando |
-| 📦 | **mercado-ingestao** — ingestão de dados de mercado | `Python` | ✅ concluída |
-| 🧪 | **gerador-exercicios** — gerador de exercícios | `Python` | ✅ concluída |
-| 🧱 | **node-typescript-api** — API em Node com TypeScript | `Node.js` `TypeScript` | ✅ concluída |
-| ☕ | **spring-boot-ionic-backend** — back-end REST | `Java` `Spring Boot` | ✅ concluída |
+| Missão | Grupo | Situação |
+|:--|:--|:--|
+| **PDV para mercados**<br><sub>frente de caixa com estoque, NFC-e e modo quiosque no Ubuntu</sub> | `Go` `React` `Wails` `PostgreSQL` | ● em andamento |
+| **Masmorras de game dev**<br><sub>protótipos e engines nas horas vagas</sub> | `C++` `Rust` | ◌ explorando |
+| **mercado-ingestao**<br><sub>ingestão de dados de mercado</sub> | `Python` | ✓ concluída |
+| **gerador-exercicios**<br><sub>gerador de exercícios</sub> | `Python` | ✓ concluída |
+| **node-typescript-api**<br><sub>API em Node com TypeScript</sub> | `Node.js` `TypeScript` | ✓ concluída |
+| **spring-boot-ionic-backend**<br><sub>back-end REST</sub> | `Java` `Spring Boot` | ✓ concluída |
 
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-## 🎒 ARSENAL
+<img src="./assets/cap-2.svg" width="100%" alt="Capítulo II — Arsenal" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,react,ts,nodejs,python,java,spring,rust,cpp,postgres,linux,arch&perline=12&theme=dark" alt="Go, React, TypeScript, Node.js, Python, Java, Spring, Rust, C++, PostgreSQL, Linux, Arch" />
 </p>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/cap-3.svg" width="100%" alt="Capítulo III — Feitos Lendários" />
 
-<details>
-<summary><b>🏆 FEITOS LENDÁRIOS</b> — clique para abrir o pergaminho</summary>
-<br />
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vinbeze&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="Troféus" />
 </p>
-</details>
 
-## 📈 PLACAR DA GUILDA
+<img src="./assets/cap-4.svg" width="100%" alt="Capítulo IV — Placar da Guilda" />
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vinbeze&locale=pt_BR&hide_border=true&background=0B0811&ring=8CF04A&fire=D02A44&currStreakLabel=B4FF72&sideLabels=9A8CB8&sideNums=E4DBC0&currStreakNum=E4DBC0&dates=7F6AA8&stroke=2A1840" alt="Placar de contribuições" />
+  <img src="https://streak-stats.demolab.com?user=vinbeze&locale=pt_BR&hide_border=true&background=0A0B0A&ring=7CFF4F&fire=7CFF4F&currStreakLabel=7CFF4F&sideLabels=7D7A6E&sideNums=E6E0CC&currStreakNum=E6E0CC&dates=7D7A6E&stroke=2A2B26" alt="Placar de contribuições" />
 </p>
+
+<img src="./assets/finis.svg" width="100%" alt="" />
