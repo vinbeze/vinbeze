@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="176" viewBox="0 0 500 176" role="img" aria-label="Missão V: node-typescript-api"><title>Missão V: node-typescript-api</title><style>
+    text { font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace; }
+    .pulse { animation: pulse 1.8s ease-out infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes pulse { from { transform: scale(.6); opacity: .9 } to { transform: scale(2.2); opacity: 0 } }
+    .spin { animation: spin 9s linear infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes spin { to { transform: rotate(360deg) } }
+    .glow { animation: glow 2.6s ease-in-out infinite alternate; }
+    @keyframes glow { from { opacity: .35 } to { opacity: 1 } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+  <rect x="1" y="1" width="498" height="174" fill="#0a0b0a" stroke="#2a2b26" stroke-width="2"/>
+  <path d="M6 18V6H18" fill="none" stroke="#7cff4f" stroke-width="2"/><path d="M494 18V6H482" fill="none" stroke="#7cff4f" stroke-width="2"/><path d="M6 158V170H18" fill="none" stroke="#7cff4f" stroke-width="2"/><path d="M494 158V170H482" fill="none" stroke="#7cff4f" stroke-width="2"/>
+  <text x="28" y="36" font-size="11" letter-spacing="2.6" fill="#7d7a6e">MISSÃO V</text>
+  <circle cx="380.35" cy="32" r="7" fill="#2f6e1c"/><path d="M376.85 32l2.5 2.5l4.5 -5" fill="none" stroke="#7cff4f" stroke-width="1.8"/><text x="472" y="36" text-anchor="end" font-size="11" letter-spacing="2.2" fill="#7d7a6e">CONCLUÍDA</text>
+  <line x1="28" y1="50" x2="472" y2="50" stroke="#2a2b26" stroke-width="1.5"/>
+  <rect x="28" y="64" width="60" height="60" fill="#0f110f" stroke="#2a2b26" stroke-width="1.5"/>
+  <g class=""><path fill="#7cff4f" d="M50 70h4v4h-4zM54 70h4v4h-4zM58 70h4v4h-4zM62 70h4v4h-4zM42 74h4v4h-4zM46 74h4v4h-4zM66 74h4v4h-4zM70 74h4v4h-4zM38 78h4v4h-4zM74 78h4v4h-4zM38 82h4v4h-4zM74 82h4v4h-4zM34 86h4v4h-4zM78 86h4v4h-4zM34 90h4v4h-4zM78 90h4v4h-4zM34 94h4v4h-4zM78 94h4v4h-4zM34 98h4v4h-4zM78 98h4v4h-4zM38 102h4v4h-4zM74 102h4v4h-4zM38 106h4v4h-4zM74 106h4v4h-4zM42 110h4v4h-4zM46 110h4v4h-4zM66 110h4v4h-4zM70 110h4v4h-4zM50 114h4v4h-4zM54 114h4v4h-4zM58 114h4v4h-4zM62 114h4v4h-4z"/><path fill="#e6e0cc" d="M54 78h4v4h-4zM58 78h4v4h-4zM50 82h4v4h-4zM62 82h4v4h-4zM50 86h4v4h-4zM62 86h4v4h-4zM54 90h4v4h-4zM58 90h4v4h-4zM58 94h4v4h-4zM54 98h4v4h-4zM58 98h4v4h-4zM62 98h4v4h-4zM58 102h4v4h-4z"/></g>
+  <text x="104" y="86" font-size="20" font-weight="700" fill="#e6e0cc">node-typescript-api</text>
+  <text x="104" y="110" font-size="12.5" fill="#7d7a6e">API em Node com TypeScript</text>
+  <rect x="104" y="128" width="71" height="24" rx="2" fill="#0a0b0a" stroke="#2a2b26" stroke-width="1.5"/><text x="113" y="144" font-size="12" fill="#7cff4f">Node.js</text><rect x="183.2" y="128" width="94" height="24" rx="2" fill="#0a0b0a" stroke="#2a2b26" stroke-width="1.5"/><text x="192.2" y="144" font-size="12" fill="#7cff4f">TypeScript</text>
+</svg>

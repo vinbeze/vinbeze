@@ -12,14 +12,16 @@ e mantém seu castelo em **Arch Linux**, btw.
 
 <img src="./assets/cap-1.svg" width="100%" alt="Capítulo I — Quadro de Missões" />
 
-| Missão | Grupo | Situação |
-|:--|:--|:--|
-| **PDV para mercados**<br><sub>frente de caixa com estoque, NFC-e e modo quiosque no Ubuntu</sub> | `Go` `React` `Wails` `PostgreSQL` | ● em andamento |
-| **Masmorras de game dev**<br><sub>protótipos e engines nas horas vagas</sub> | `C++` `Rust` | ◌ explorando |
-| **mercado-ingestao**<br><sub>ingestão de dados de mercado</sub> | `Python` | ✓ concluída |
-| **gerador-exercicios**<br><sub>gerador de exercícios</sub> | `Python` | ✓ concluída |
-| **node-typescript-api**<br><sub>API em Node com TypeScript</sub> | `Node.js` `TypeScript` | ✓ concluída |
-| **spring-boot-ionic-backend**<br><sub>back-end REST</sub> | `Java` `Spring Boot` | ✓ concluída |
+<p align="center">
+  <img src="./assets/missao-1.svg" width="48%" alt="Missão 1" />
+  <img src="./assets/missao-2.svg" width="48%" alt="Missão 2" />
+  <br />
+  <a href="https://github.com/vinbeze/mercado-ingestao"><img src="./assets/missao-3.svg" width="48%" alt="Missão 3" /></a>
+  <a href="https://github.com/vinbeze/gerador-exercicios"><img src="./assets/missao-4.svg" width="48%" alt="Missão 4" /></a>
+  <br />
+  <a href="https://github.com/vinbeze/node-typescript-api"><img src="./assets/missao-5.svg" width="48%" alt="Missão 5" /></a>
+  <a href="https://github.com/vinbeze/spring-boot-ionic-backend"><img src="./assets/missao-6.svg" width="48%" alt="Missão 6" /></a>
+</p>
 
 <img src="./assets/cap-2.svg" width="100%" alt="Capítulo II — Arsenal" />
 
@@ -29,13 +31,9 @@ e mantém seu castelo em **Arch Linux**, btw.
 
 <img src="./assets/cap-3.svg" width="100%" alt="Capítulo III — Feitos Lendários" />
 
-| Feito | Como foi conquistado |
-|:--|:--|
-| **O Primeiro Feitiço** | primeiro commit no GitHub — 2016 |
-| **Mestre dos Grimórios** | projetos em Java, C#, Go, Python, TypeScript, Rust e C++ |
-| **Guardião do Arch** | Arch Linux como sistema principal, btw |
-| **Construtor de Fortalezas** | PDV rodando em modo quiosque, do banco ao boot |
-| **Rolou 20 natural** | nunca largou o controle |
+<p align="center">
+  <img src="./assets/feitos.svg" width="100%" alt="Feitos lendários: O Primeiro Feitiço, Mestre dos Grimórios, Guardião do Arch, Construtor de Fortalezas, Rolou 20 Natural" />
+</p>
 
 <img src="./assets/cap-4.svg" width="100%" alt="Capítulo IV — Placar da Guilda" />
 
