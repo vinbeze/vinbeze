@@ -1,47 +1,45 @@
-<h1 align="center">Olá, eu sou o Vinicius Bezerra 👋</h1>
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="vinbeze — lich, necromante de software" />
+</p>
+
+> 📜 Reza a lenda que em **2016** um jovem aprendiz conjurou seu primeiro `"Hello, World"`.
+> Desde então invoca APIs, ergue arquiteturas e bane bugs da produção.
+> Nas horas vagas explora masmorras (jogos), estuda grimórios novos
+> e mantém seu castelo em **Arch Linux**, btw.
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## ⚔️ QUADRO DE MISSÕES
+
+| | Missão | Grupo (stack) | Situação |
+|:-:|:--|:--|:-:|
+| 🏰 | **PDV para mercados** — frente de caixa com estoque, NFC-e e modo quiosque no Ubuntu | `Go` `React` `Wails` `PostgreSQL` | 🔥 em andamento |
+| 🐉 | **Masmorras de game dev** — protótipos e engines nas horas vagas | `C++` `Rust` | 🗺️ explorando |
+| 📦 | **mercado-ingestao** — ingestão de dados de mercado | `Python` | ✅ concluída |
+| 🧪 | **gerador-exercicios** — gerador de exercícios | `Python` | ✅ concluída |
+| 🧱 | **node-typescript-api** — API em Node com TypeScript | `Node.js` `TypeScript` | ✅ concluída |
+| ☕ | **spring-boot-ionic-backend** — back-end REST | `Java` `Spring Boot` | ✅ concluída |
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## 🎒 ARSENAL
 
 <p align="center">
-  Desenvolvedor Back-end apaixonado por arquitetura de software e boas práticas de código.
+  <img src="https://skillicons.dev/icons?i=go,react,ts,nodejs,python,java,spring,rust,cpp,postgres,linux,arch&perline=12&theme=dark" alt="Go, React, TypeScript, Node.js, Python, Java, Spring, Rust, C++, PostgreSQL, Linux, Arch" />
 </p>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-### 🚀 Sobre mim
-
-- 🔭 Trabalho com **back-end** usando **Java** e **.NET Core**
-- 🌱 Estudando **Node.js**, **AWS**, **Clean Code** e **Clean Architecture**
-- 💡 Interessado em arquitetura de sistemas e desenvolvimento de software de qualidade
-
----
-
-### 🛠️ Tecnologias & Ferramentas
-
-<p>
-  <img alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img alt="C#" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="TypeScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img alt="Node.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img alt="Spring" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img alt="Docker" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img alt="AWS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+<details>
+<summary><b>🏆 FEITOS LENDÁRIOS</b> — clique para abrir o pergaminho</summary>
+<br />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vinbeze&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="Troféus" />
 </p>
+</details>
 
----
+## 📈 PLACAR DA GUILDA
 
-### 📊 GitHub Stats
-
-<p>
-  <img height="180em" src="https://streak-stats.demolab.com?user=vinbeze&theme=react&cache_seconds=7200"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vinbeze&locale=pt_BR&hide_border=true&background=0B0811&ring=8CF04A&fire=D02A44&currStreakLabel=B4FF72&sideLabels=9A8CB8&sideNums=E4DBC0&currStreakNum=E4DBC0&dates=7F6AA8&stroke=2A1840" alt="Placar de contribuições" />
 </p>
-
----
-
-### 💻 Linguagens mais usadas
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinbeze&theme=react"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinbeze&theme=react"/>
-</p>
-
